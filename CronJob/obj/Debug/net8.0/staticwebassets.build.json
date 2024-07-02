@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kv3X5N8KLXTYwLPOYR625jIzeheB0g5NVTlXK0RRoYY=",
+  "Source": "CronJob",
+  "BasePath": "_content/CronJob",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@CronJob_HostAddress = http://localhost:5114
+
+GET {{CronJob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
